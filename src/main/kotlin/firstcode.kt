@@ -8,7 +8,7 @@ fun main()
     println("The addition of $num1 and $num2 is $result")
 
     var navin = Alien()
-    navin.name ="Kibunja"
+    navin.name ="Franziska"
     println("Alien name is : ${navin.name}")
 
 }
