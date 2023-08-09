@@ -1,6 +1,5 @@
-fun main(args: Array <String>) {
-    println("Hello Aliens!!!")
-
+fun main()
+{
     var nishan = Alien()
 
     nishan.name = "Kibunja"
